@@ -2,5 +2,11 @@
 	"name": "126 Jahre Rhönklub Bad Kissingen",
 	"twitter": "https://twitter.com/RealGrumpyCat",
 	"facebook": "https://www.facebook.com/TheOfficialGrumpyCat",
-	"wikipedia": "https://en.wikipedia.org/wiki/Grumpy_Cat"
+	"wikipedia": "https://en.wikipedia.org/wiki/Grumpy_Cat",
+	"description": {
+		"twitter": "https://twitter.com/RealGrumpyCat",
+		"facebook": "https://www.facebook.com/TheOfficialGrumpyCat",
+		"wikipedia": "https://en.wikipedia.org/wiki/Grumpy_Cat",
+		"full-name": "Michael von Schweinichen"
+	}
 }

@@ -1,5 +1,9 @@
 {
-	"name": "126 Jahre Rhönklub Bad Kissingen",
+	"name": [
+		"126 Jahre Rhönklub Bad Kissingen",
+		"RKBK",
+		"6 Jahre Rhönklub Bad Kissingen"
+	],
 	"twitter": "https://twitter.com/RealGrumpyCat",
 	"facebook": "https://www.facebook.com/TheOfficialGrumpyCat",
 	"wikipedia": "https://en.wikipedia.org/wiki/Grumpy_Cat",
@@ -18,5 +22,7 @@
 	"hobby": [
 		"Eating",
 		"Biking"
-	]
+	],
+	"image": "images/rkimages/rkHeadPic1.jpg",
+	"description": "<strong>Tardar Sauce</strong> (born April 4, 2012), commonly known as <strong>Grumpy Cat</strong>, is a cat Internet and mediaghh personality and actress. She is known for hergghhhh permanently \"grumpy\" facial appearance, which is caused by an <a title=\"Malocclusion\" href=\"https://en.wikipedia.org/wiki/Malocclusion\">underbite</a> and <a title=\"Dwarf cat\" href=\"https://en.wikipedia.org/wiki/Dwarf_cat\">feline dwarfism</a>."
 }
